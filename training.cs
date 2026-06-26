@@ -16,11 +16,6 @@ namespace demo
 
          ArrayList reply = new ArrayList();
         ArrayList ignore = new ArrayList();
-
-
-
-
-
         // Training data class
         public class TrainingData
         {
