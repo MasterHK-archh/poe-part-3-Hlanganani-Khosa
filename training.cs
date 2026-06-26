@@ -22,13 +22,6 @@ namespace demo
             public string Question { get; set; }
             public string Answer { get; set; }
         }
-
-
-
-
-
-
-
         // Prediction result class
         public class AnswerPrediction
         {
